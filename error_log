@@ -1,0 +1,5 @@
+[17-Mar-2020 19:26:29 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /data/aula-php/vendor/catfan/medoo/src/Medoo.php:323
+Stack trace:
+#0 /data/aula-php/index.php(18): Medoo\Medoo->__construct(Array)
+#1 {main}
+  thrown in /data/aula-php/vendor/catfan/medoo/src/Medoo.php on line 323
